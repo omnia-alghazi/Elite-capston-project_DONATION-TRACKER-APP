@@ -1,1 +1,2 @@
-# Elite-capston-project_DONATION-TRACKER-APP
+# DONATION TRACKER APP
+Blockchain-based donation management platform
