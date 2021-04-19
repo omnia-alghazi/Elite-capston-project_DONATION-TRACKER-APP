@@ -26,7 +26,11 @@ We have seen many examples where decentralized finance platforms exchange fiat c
 ## Data Flow Diagram
 ![image](https://user-images.githubusercontent.com/78339351/115233622-ce791800-a120-11eb-8bc4-69ee266adf05.png)
 
+# Coding
 
+## Back-End
+
+## Front-End
 
 
 ## Team members:
