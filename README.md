@@ -8,4 +8,5 @@ Providing transparent and traceable public donations is vital for the health of 
 ## What we will solve?
 We want to bridge the gap between charitable donors and NGOs globally by providing a unified platform where donors and NGOs can interact. This platform will make it easy for donors worldwide to select charitable campaigns of each NGO for donation instead of going to each NGO website and then looking for donation campaigns. Hence, NGOs could increase the transparency of their operations, plus the donors could have information about their donation and the impact it has made on the world. In total, this platform would provide granular details about how charitable contributions operated and the impact it has made for humanity.
 
-## How to Validate Our Application?
+## How to Validate the Application
+We have seen many examples where decentralized finance platforms exchange fiat currencies easily and instantly through stable coins. Also, there are many examples where the supply chain process is implemented and tracked through blockchain technology. The success of these implementations empowers our solution and gives us a vision of how we can succeed in implementing a donation platform where donation is gathered and traced.
