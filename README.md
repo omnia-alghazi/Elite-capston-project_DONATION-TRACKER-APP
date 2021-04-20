@@ -33,19 +33,3 @@ We have seen many examples where decentralized finance platforms exchange fiat c
 ## Front-End
 
 
-## Team members:
-
-### Omnia Alghazi
-Electrical and computer engineer specialized in microm electronic and renewable energy with programing skills (Front-end and back-end)
-
-### Nemer
-Front-end and back-end programmer with data analyst and technical skills 
-
-### Sufana Alkushi
-Front-end and back-end programmer with business skills
-
-### Nihal Alsubahi
-Front-end and back-end programmer with security skills to protect from threats and identify potential vulnerabilities in the system.
-
-### Zahra Aljanoubi
-wib site programmer
